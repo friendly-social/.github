@@ -18,8 +18,6 @@ This concept helps us to maintain a consistent pace where project is always grow
 
 Owner: [@y9san9](https://github.com/y9san9)
 
-Kotlin Backend Lab.
-
 Technologies: Kotlin, Ktor, Exposed, Coroutines. Very simple and extensible architecture.
 
 This lab is responsible for:
@@ -31,7 +29,7 @@ This lab is responsible for:
 
 Owner: [@demndevel](https://github.com/demndevel)
 
-Kotlin Android Lab. Technologies: Kotlin, Jetpack Compose, Coroutines. Very simple architecture.
+Technologies: Kotlin, Jetpack Compose, Coroutines. Very simple architecture.
 
 This lab is responsible for:
 
