@@ -45,6 +45,16 @@ This lab is responsible for:
 
 - [friendly-social/web](https://github.com/friendly-social/web)
 
+### iOS Lab
+
+Owner: [@y9san9](https://github.com/y9san9)
+
+Technologies: Swift, SwiftUI, Liquid Glass, Latest iOS/Swift Target. Very simple and extensible architecture.
+
+This lab is responsible for:
+
+- [friendly-social/ios](https://github.com/friendly-social/ios)
+
 ### Telegram Bot Lab
 
 Owner: [@y9kap](https://github.com/y9kap)
@@ -59,4 +69,5 @@ None _yet_.
 
 Some areas that we want to collaborate on but don't have time or skills (or both):
 
-- **iOS Lab** – very important for a networking app
+- iOS ([@y9san9](https://github.com/y9san9) is managing 3 repos is not easy)
+- Telegram Bot (or any kind of social bot)
