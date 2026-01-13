@@ -55,15 +55,15 @@ This lab is responsible for:
 
 - [friendly-social/ios](https://github.com/friendly-social/ios)
 
-### Telegram Bot Lab
+## Abandoned Labs
+
+You can revive it!
+
+### (Adandoned) Telegram Bot Lab
 
 Owner: [@y9kap](https://github.com/y9kap)
 
-To be filled later.
-
-## Abandoned Labs
-
-None _yet_.
+Nothing was implemented yet, so you can choose your language, framework and basicaly everything!
 
 ## We want you!
 
