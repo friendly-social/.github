@@ -69,5 +69,5 @@ Nothing was implemented yet, so you can choose your language, framework and basi
 
 Some areas that we want to collaborate on but don't have time or skills (or both):
 
-- iOS ([@y9san9](https://github.com/y9san9) is managing 3 repos is not easy)
+- iOS ([@y9san9](https://github.com/y9san9) managing 3 repos is not easy)
 - Telegram Bot (or any kind of social bot)
