@@ -55,6 +55,16 @@ This lab is responsible for:
 
 - [friendly-social/ios](https://github.com/friendly-social/ios)
 
+### CLI Lab
+
+Owner: [@atennop](https://github.com/Atennop1)
+
+Technologies: Go and BubbleTea TUI framework. Modular Elm architecture.
+
+This lab is responsible for:
+
+- [friendly-social/cli](https://github.com/friendly-social/cli)
+
 ## Abandoned Labs
 
 You can revive it!
