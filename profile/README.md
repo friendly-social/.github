@@ -35,6 +35,16 @@ This lab is responsible for:
 
 - [friendly-social/android](https://github.com/friendly-social/android)
 
+### Web Lab
+
+Owner: [@kotleni](https://github.com/kotleni)
+
+Technologies: TypeScript, React.js, Next.js, Tailwind CSS. Experimental architecture.
+
+This lab is responsible for:
+
+- [friendly-social/web](https://github.com/friendly-social/web)
+
 ### Telegram Bot Lab
 
 Owner: [@y9kap](https://github.com/y9kap)
@@ -50,4 +60,3 @@ None _yet_.
 Some areas that we want to collaborate on but don't have time or skills (or both):
 
 - **iOS Lab** – very important for a networking app
-- **Web Lab** – web-client and landing page are both very useful
