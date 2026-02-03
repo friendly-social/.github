@@ -23,7 +23,7 @@ Technologies: Kotlin, Ktor, Exposed, Coroutines. Very simple and extensible arch
 This lab is responsible for:
 
 - [friendly-social/backend](https://github.com/friendly-social/backend)
-- [friendly-social/sdk](https://github.com/friendly-social/sdk)
+- [friendly-social/kotlin-sdk](https://github.com/friendly-social/kotlin-sdk)
 
 ### Android Lab
 
@@ -64,6 +64,7 @@ Technologies: Go and BubbleTea TUI framework. Modular Elm architecture.
 This lab is responsible for:
 
 - [friendly-social/cli](https://github.com/friendly-social/cli)
+- [friendly-social/golang-sdk](https://github.com/friendly-social/golang-sdk)
 
 ## Abandoned Labs
 
